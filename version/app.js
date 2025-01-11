@@ -44,7 +44,7 @@ app.get('/', function (req, res) {
     <body>
         <h1>Welcome to My Webinar!</h1>
         <p>This is Version 3 of the App, designed specifically for this event.</p>
-        <p>Thank you for joining. Let's dive into the exciting world of Node.js and Express.js!</p>
+        <p>Thank you for joining. Let's dive into the exciting world of Cloud and DevOps</p>
         <div class="footer">
             <p>&copy; ${new Date().getFullYear()} - Hosted by Szen John Providence</p>
         </div>
