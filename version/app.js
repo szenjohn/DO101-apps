@@ -65,10 +65,10 @@ app.get('/', function (req, res) {
     <body>
         <div class="container">
             <h1>Cloud & DevOps Engineering</h1>
-            <p>Taking the Cloud and DevOps Engineering course from valin will equip you with the skills needed for highly coveted jobs in the DevOps domain. This course provides hands-on experience with various DevOps tools, deploying automation, and creating synergies between software development and operations. By the end of this course, you will be an expert in implementing DevOps practices in real-world environments.</p>
+            <p>Taking the Cloud and DevOps Engineering course from ipsr will equip you with the skills needed for highly coveted jobs in the DevOps domain. This course provides hands-on experience with various DevOps tools, deploying automation, and creating synergies between software development and operations. By the end of this course, you will be an expert in implementing DevOps practices in real-world environments.</p>
             
             <h2>Course Levels</h2>
-            <p>The Cloud and DevOps Engineering training at valin is delivered in two levels:</p>
+            <p>The Cloud and DevOps Engineering training at ipsr is delivered in two levels:</p>
             <h3>Level I includes:</h3>
             <ul>
                 <li>Enterprise Linux Administration</li>
@@ -86,7 +86,7 @@ app.get('/', function (req, res) {
             </ul>
 
             <h2>Course Outcomes</h2>
-            <p>Upon completing the Cloud & DevOps Engineering course from valin, learners will achieve:</p>
+            <p>Upon completing the Cloud & DevOps Engineering course from ipsr, learners will achieve:</p>
             <ul>
                 <li>Proficiency in Linux System Administration</li>
                 <li>Expertise in Linux Automation with Ansible</li>
@@ -119,7 +119,7 @@ app.get('/', function (req, res) {
             <p>Yes, participants will have access to mentors and industry experts who will guide them through the projects and provide feedback on their work.</p>
 
             <div class="footer">
-                <p>&copy; ${new Date().getFullYear()} valin | Cloud & DevOps Engineering</p>
+                <p>&copy; ${new Date().getFullYear()} ipsr | Cloud & DevOps Engineering</p>
             </div>
         </div>
     </body>
